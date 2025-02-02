@@ -3378,6 +3378,15 @@
         "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ycgO0lBpBPers5JhX1xDepcwA78nRkWxzXfrANyBz97zn1SYNZQQzxCho9FbXfYn48gpm2moyiPOiKA70CXJjfE/pkO+Bd+9Z5t5Vx01uu716gD5AQ84v/G/m/c8lCKmoQ==",
         "referer": "https://player.sensa.com.ar/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "bro",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/800/542/0/0/50191211073985.png",
+        "uri": "grkB+zkuyBImy296ZKI9wljJG/mgU8808YvUoWcxKmV23t47zRXpicGcZ9BTUwADyWDgZJkelQxDa5F2q0743g==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "YOhN6SaFzURu0OC51/r6Q4HDUMkRipUjsG/3MKGGPCT1Q9Yt9pxeIBjyJBopQPcQtNTGv+Vw8G8g1UoCB6GCdY+8l5sikvVM/iHCpzWMZyKc/k4hADkgDrjrIMjxZur/1oOKJVbUtsOIFdXcbesNiTX26U/CwFSCYUltg1KEils=",
+        "Origin": "android_mobile.directvgo.com",
+        "user_agent": "http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
       }
     ]
   }
