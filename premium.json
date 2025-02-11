@@ -1050,13 +1050,11 @@
     "name": "⚽ PACK FUTBOL ARGENTINA",
     "samples": [
       {
-         "name": "Racing Club vs River Plate",
-    "icono": "https://www.delabahia.com.ar/wp-content/uploads/2018/03/pack.jpg",
-    "uri": "PEAjQSjwhjOYOwEB+/+Ikvpul2zsR4/O5dr5Pt313+L8d5v9QEK4ojSpJ1pF2kI2hY4FBW9wdJSxYRuAOMyZoA==",
-    "referer": "https://gabitotv.com/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
+        "name": "DSports",
+        "icono": "https://th.bing.com/th/id/OIP.FFzrqKN0KBqvnB1dbb6TZQHaHa?rs=1&pid=ImgDetMain",
+        "uri": "yRt/Wx40QEpES7GxZXyJKYg7vjxUbi2gAswrjwfnrz0GmqKM8YkrLAaBaFVsVT4GvIZfJHH18gGFodBr6Yf8M/GJ55zBraoD5qlo1zE9fCLuVq4dMMJjJhe2Ut9GF66PHrzgDJVV3dvjQMNJpzHjjDFeELAMdzjjDk8cig24o2/2BjSMUgKgXVpweFcqSRS/tAG21z2BZBZlTQA+JgvKYg=="
+      },
+      {
     "name": "CLARO SPORTS",
     "icono": "https://uspto.report/TM/86068499/mark.png",
     "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDRHYdndmDaRZTliYN8zoOLOqpTdUvRXwuGDEP/lRnPPhRD14JWbugBLo97ChMtbYid4=",
@@ -1155,6 +1153,11 @@
   {
     "name": "⚽ DEPORTES",
     "samples": [
+      {
+        "name": "DSports",
+        "icono": "https://th.bing.com/th/id/OIP.FFzrqKN0KBqvnB1dbb6TZQHaHa?rs=1&pid=ImgDetMain",
+        "uri": "yRt/Wx40QEpES7GxZXyJKYg7vjxUbi2gAswrjwfnrz0GmqKM8YkrLAaBaFVsVT4GvIZfJHH18gGFodBr6Yf8M/GJ55zBraoD5qlo1zE9fCLuVq4dMMJjJhe2Ut9GF66PHrzgDJVV3dvjQMNJpzHjjDFeELAMdzjjDk8cig24o2/2BjSMUgKgXVpweFcqSRS/tAG21z2BZBZlTQA+JgvKYg=="
+      },
       {
         "name": "Show Sports (Córdoba)",
     "icono": "https://www.dz-techs.com/wp-content/uploads/2017/01/showsport-logo.png",
