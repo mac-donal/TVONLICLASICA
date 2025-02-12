@@ -1,7 +1,12 @@
 [
   {
-    "name": "🍿PELICULAS 2024",
+    "name": "🍿PELICULAS 2025",
     "samples": [
+      {
+        "name": "Las Aventuras de Dog Man (2025)",
+        "icono": "https://image.tmdb.org/t/p/w500/sccfhAcEkQGiyTjIAKoQZcIr0ti.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2UUmVcO42i1fX5m+CyqnNRVdRCs7JedrT1DfDF0++uImrfLu6ke1QYH8CGvyyJI7zDZ+NuxmQD/rlFRbbjAFWRg3e8T+cInkDxXtiTNyJ3NCMxCXeJ0r9bD35Kxg7Ru3wQ=="
+      },
       {
         "name": "El río de la muerte (2024)",
         "icono": "https://image.tmdb.org/t/p/w500/hUjl4T4qQb0GtIazB2fFecn1ETj.jpg",
