@@ -2458,7 +2458,7 @@
         "uri": "VDfua+EFdPjTY7qcmpinfE+PuSopsPEBys83fH87m1KvHAmVuxyj4wRztag4ArTfEOqQ1ZlDZFPg+Clq3XgdAw==",
         "drm_scheme": "clearkey",
         "drm_license_url": "gr4GpGbPj3e0l1URQZ/FoMZbiujryUctXdGQEXZ3t/tf94ufrWlAqV0yR1nvpXpfq9LG43U1dSda3VWZupn2nyuW+r5Ex7FEEbzfJoZs/cIfBgZ4DZQYpfSHjs1B9gQFQe56RuEpcgZf2hgeLqzwia0cBvBT24uUcnV9wYsVtHc=",
-        "referer": "https://player.sensa.com.ar/",
+        "referer": "strict-origin-when-cross-origin",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
     ]
