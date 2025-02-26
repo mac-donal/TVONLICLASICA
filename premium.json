@@ -84,30 +84,12 @@
         "uri": "jb9IVxSwSXcTodMgk9X+Yg3XgrMoF8C1p5XjcGR1pXCNI5pqBTqVy4ZmSnl1L9BCMxCXeJ0r9bD35Kxg7Ru3wQ=="
       },
       {
-        "name": "TELEFE OPC 2",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
-        "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDRFzdBReVNCTT2xn2egI02eyN2yXRVUBN0q2ADgRrG5CH3j0JnJdbD06rMD/jp92oTA=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yfcTRTnao9FVmrHWmvbitKtfUFjeQvxUgH79TE++osnxqiyI+InPEZjSxF+A+jtc0WInhem9DdwcMogkOyqqNjiZ5fr4dFO2Er0OnexWjGP+B5ZjmRXr19RY7F62VgM4oA==",
-        "referer": "https://player.sensa.com.ar/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
         "name": "EL TRECE ",
         "icono": "https://raw.githubusercontent.com/97starlight/TV/main/2024/ar-el-trece-2.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Ck9aB1BwyY4ISuIpLcbCppG3OCi2zMCsl6GhddqwwP+V0k/BieuhEQOse+G/vxRM6uUmtA8J7xXJB3HCndAUNvd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ycC8LdNhe3Dz407FhRjdWWe+es+pTD91ajZEojReuf2ZXLgrCtXq8SygGyJZztSOp34OQy1rHwkPo+m/J5kvLqv6xSgiZ+DLuYabp7fpt3YzRzc8ZvG270KmYcIY8pNf3Q==",
         "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "EL TRECE OPC 2",
-        "icono": "https://raw.githubusercontent.com/97starlight/TV/main/2024/ar-el-trece-2.png",
-        "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDRHlx1NvSf/hvuU/67BKeHg+uxqdFBNO3j4ojOn841A0lGspqj5u0IywD6lMapjizRM=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yQUASE9C522xtvn9tOdmaAIvUaQGWdPhMoW8YZ2iaWZSMJz7veWtVjezUO6rpfUefPoBaOvi+NoliG4H5frWvAhiKD8wnukwCwPpLpG6SksT/nR7KTI/lM8yZIweLfneLw==",
-        "referer": "https://player.sensa.com.ar/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
@@ -141,15 +123,6 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "AMERICA TV OPC 2",
-        "icono": "https://i.ibb.co/BrzJD0D/Logotipo-de-America.jpg",
-        "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDREsZJD3YrgpwZmrodKx8e2MJ5Tw5ytGkxsCLx1Rpqqi1Wspqj5u0IywD6lMapjizRM=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yTdtctEk36knr6mHPYL6C2QtIOhYei4iZU5UYMDQmLRKnyXUny92mN4EnAs8vje/pwBUX3DpqNikQRySB6WnnbRrL1+jttQ80b9Q3f0bPvPYjHPfff9RHb64rWn0iTCZVQ==",
-        "referer": "https://player.sensa.com.ar/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
         "name": "TV PUBLICA",
         "icono": "https://i.ibb.co/xsBgRLG/tvpublica-logo.jpg",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cn6cKNj+7gvV5w9KIWxLHbRtbTHPt83MvRxQnpPFpej3dwGZF3hKxn1neLh3T2EZE8=",
@@ -159,30 +132,12 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "TV PUBLICA opc 2",
-        "icono": "https://i.ibb.co/xsBgRLG/tvpublica-logo.jpg",
-        "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDRG00+rRp9DxtVc6cZuL5xVryzWWoUOGXkUTVKqczWHI0HE0A5ExFGf+LBVVaFh9YHM=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ydixOXescqHfP5UngQ74tOPB2sIU77btdYs6bbREByfX5TeUDnEaX8RWSpvOVKT/cyXEMpBf8ge2er6R+zmYdB34iSYRJsyRujgZFFwkV3ie9NJEXNjQjkQncjfZdeuvBQ==",
-        "referer": "https://player.sensa.com.ar/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
         "name": "C5N",
         "icono": "https://i.ibb.co/WsDVtKJ/AATXAJxna-EZa9-Kmw-LXr-Yq-Dc-MZTf88wo-Sug34-Gkqy5u-E-5-Q-s900-c-k-c0xffffffff-no-rj-mo.jpg",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cm3QqQ5yPP84tr2GEun8O7bpEmj3liMjEs8WI5ZhM7jphAS6p8vHl85m6NTaOSH4sg=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ye+xUTuoFr19zyytqgC7LEmJB0S2i+gzU1xykS3hGLhL2f1M4eE57yt56VZrHe4/9ykA20Pv7qcBVPcqR9mNOYcCJVEB49NRlWgeTR3b8Bro522pakJFZoDy1b44wbk/jA==",
         "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "C5N OPC 2",
-        "icono": "https://i.ibb.co/WsDVtKJ/AATXAJxna-EZa9-Kmw-LXr-Yq-Dc-MZTf88wo-Sug34-Gkqy5u-E-5-Q-s900-c-k-c0xffffffff-no-rj-mo.jpg",
-        "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDRHE4LS6YQnmjnkDVW+6dAEGE/Fp0qzefXaWFCAlmFX/sQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yZSB19p1WZ3TfrD55yDRFLOSv2mKGXLpOrxiFAm2NWf77LU6tw/6x4I/Xvn6yy37SNFbVK3+6CKZCia4wvigX7oKeBJGwYAPupQBcndnc11v522pakJFZoDy1b44wbk/jA==",
-        "referer": "https://player.sensa.com.ar/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
@@ -201,15 +156,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yVi9sk9fSQhX8KPiCrtKYeLcyZ/bf0mLaRIP9X0ns7XpNQhbv74zVRMfxt2g3+totiBA7ITSsqN1nypd6EVw/pkn4Q1119uFun+K419vWfKn6gD5AQ84v/G/m/c8lCKmoQ==",
         "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "LN+ - LA NACION OPC 2",
-        "icono": "https://www.conclusion.com.ar/wp-content/uploads/2016/11/la-nacion-m%C3%A1s.jpg",
-        "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDREsRQEO9AfS1lJFKBThtvR+BxVpZ6qQj6Lvx619u6EzqFAtY2Zn7LKbbTDvCenbCpc=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ydEHlHi8tgODIn6GfkJGtOF02ttAUAt9S6YEZ636NV3cMetLt7mUB20U706WfUWRlwHSZ4V3p1HkhnusF0RSjWWT1bSgDWFllMfbAKNh+Feofz7puujJW9jpGCec8JcPYA==",
-        "referer": "https://player.sensa.com.ar/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
@@ -1099,15 +1045,6 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "CLARO SPORTS",
-        "icono": "https://uspto.report/TM/86068499/mark.png",
-        "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDRHYdndmDaRZTliYN8zoOLOqpTdUvRXwuGDEP/lRnPPhRD14JWbugBLo97ChMtbYid4=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ySGncTQQXA6vSN3aECA48W2Qdr8siFmW/F0pITv36XtTAz30LaJ/Rwmsi/NEfse1hsJn8E/WrDgmpjLj2KhDmzMYfcatoozyqzGQ+8fmqKzQqW4vw31OE8t3+UbFpEMtmw==",
-        "referer": "https://player.sensa.com.ar/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
         "name": "TNT SPORT ARGENTINA HD",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Ckr7j+0O8DxrpM/VtJQWzAoGoXGyc2d+xsw6mvSkQq5hjlXXIhDp0NcNJTdjKoJSykAT3DzJI5GL1kS6a72d5HR",
@@ -1711,15 +1648,6 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "Golden Edge",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/32/Golden_Edge_Logo.png",
-        "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDRFjD6tc4p4PhBpIKw5mS3NUzewV92PM+eZl9qLIOpW0RJAyCxJrr6saCNQHrUcnGsk=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yejBvbx4ockhe3HT4sq/dWAlmvPGTmubtMYxhJ++JSmQHaQtw7ngjgtl5CfZk7HGPBDW8NeA0Ua3kfQJhAOkQm6dOL9r6UzvZyIaBM7jzEPkc5RR6cXzheblkUGK/PiGeA==",
-        "referer": "https://player.sensa.com.ar/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
         "name": "CINECANALL",
         "icono": "https://i.ibb.co/9hpbZW7/ar-cinecanal-1-m.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CkRdgbsMyHxOtM0HbDVN5fOhv9AbZKFZrKWZO9eM1nnWfSbsMFMebzHSXlysuj/kKhbfcwVL4g8oSSYfSFQRjB1",
@@ -1735,15 +1663,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ya0Kdfrsxol/kVSdSRqtjLSxCDs6PMnvIo4527WVQfw457MqDqqVHxF8adBoSyXesDCiDvyv+9wscBYaFxPxWvbkggDb8BTnGO9kE2AcGvqB0VZtXzGJNCDJ7tO2nNWzhg==",
         "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "TNT HD OPC 2",
-        "icono": "https://i.ibb.co/hV2MwGM/tnthd.jpg",
-        "uri": "UiSYhDkJOY+OkzAOOJ+I4VbKFYkgRZwhU8thprte6Q9p5/kv894C08hXfA2ONNywLPEY6oEvvJtj53RqcaGxbZSa0DwnvFckHccKd0BQ290=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yaetKKVxdXD374rlzCwAY+qCkTfgC5oSeBrwxXHvgbVS5d/+JW2wa5fqxRHxfxen1EoCmLVjzq8sHL+zazMRSbZcLUiuI+tHm5i+6iyBW2P72uRoFmC6B0R4VjlOubKvJA==",
-        "referer": "https://player.sensa.com.ar/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
@@ -2400,15 +2319,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yToZVJeK22PTQgStKfIjKvvO3PAPHnF7O433tUkSviX7G7Kty5ZpoXJDqs500QRZJesRomDAkdlzyoSrj1EWVz/JXc/m/ez8zABKCeocUXYCbJz8rNOQN5a/79Lhm3132g==",
         "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "LOVE NATURE",
-        "icono": "https://television-libre.net/img/lovenature.png",
-        "uri": "VDfua+EFdPjTY7qcmpinfE+PuSopsPEBys83fH87m1KvHAmVuxyj4wRztag4ArTfEOqQ1ZlDZFPg+Clq3XgdAw==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yZv4Q4aZzgN5YV20fj6lO/EbJX4T9bj/U+45CM5WEsoYYZsergAehbw8HQppn/ZWpu8HO3a5eOMJenif4z4iOck2uHYc4Wm2aW8x/uChTqeXfz7puujJW9jpGCec8JcPYA==",
-        "referer": "https://player.sensa.com.ar/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
     ]
