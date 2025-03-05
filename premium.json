@@ -3,6 +3,15 @@
     "name": "🏆 EVENTOS EN VIVO DISPONIBLES ÚNICAMENTE CUANDO HAY EVENTOS ACTIVOS TV ONLINE ORIGINALL",
     "samples": [
       {
+        "name": "River Plate vs Talleres",
+        "icono": "https://www.ole.com.ar/images/2025/02/24/klisclyeI_1580x750__1.jpg",
+        "uri": "vsItsirgdv0HJtqZunlH4ee+0Di5LunDBa/YuYUJqM2UAkPRXcbpM5GlKHqHXVzjZ5WgPy1D9KgBQVWAiXw+hf0y60coTufWC8+nX6/gQZ4=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yTvId8+bqNmh/7NgEezhM0N2UeugUG2e8n24jwKPFyHZvXNDkypgYAhhIE7ygBUDyc1/o0xazF9v+8Hu7wNK7hTewdMG/mfevXPybMtlIfZZcHc1DXaRSdqc6l/r7UYuAA==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
         "name": "EVENTOS URUGUAY",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/800px-Flag_of_Uruguay.svg.png",
         "uri": "IKzy+xi77y9pSjA1Kdh7kA1wioqJQiML8tKKPmqo882d0CN4AMsh82JWZLpDb4WsSS3KkhGOqOtUXyKmxrbuwBaBzal+pgbEWZazSRJxAlE=",
