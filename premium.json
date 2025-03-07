@@ -3,22 +3,6 @@
     "name": "🏆 EVENTOS EN VIVO DISPONIBLES ÚNICAMENTE CUANDO HAY EVENTOS ACTIVOS TV ONLINE ORIGINALL",
     "samples": [
       {
-        "name": "River Plate vs Talleres",
-        "icono": "https://www.ole.com.ar/images/2025/02/24/klisclyeI_1580x750__1.jpg",
-        "uri": "vsItsirgdv0HJtqZunlH4ee+0Di5LunDBa/YuYUJqM2UAkPRXcbpM5GlKHqHXVzjZ5WgPy1D9KgBQVWAiXw+hf0y60coTufWC8+nX6/gQZ4=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "gr4GpGbPj3e0l1URQZ/FoMZbiujryUctXdGQEXZ3t/tf94ufrWlAqV0yR1nvpXpf11OtCgwMJssMg7AoNqSymjEVzM7bH64B70/gfXkT3Ttb64MSpePxjdqxMPHQcelNh7X4ORNBp0LulPB40WBBvBXQT++qQtGyCm8/W7MXCrI=",
-        "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "River Plate vs Talleres opc 2 nico",
-        "icono": "https://www.ole.com.ar/images/2025/02/24/klisclyeI_1580x750__1.jpg",
-        "uri": "840xZFXGzgHtc5Lhy3hkI177qBKTjN+7Fbn4yrsReGZIURQ/m/kGwgPuRi6aIBGl",
-        "referer": "https://gabitotv.com/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
         "name": "EVENTOS URUGUAY",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/800px-Flag_of_Uruguay.svg.png",
         "uri": "IKzy+xi77y9pSjA1Kdh7kA1wioqJQiML8tKKPmqo882d0CN4AMsh82JWZLpDb4WsSS3KkhGOqOtUXyKmxrbuwBaBzal+pgbEWZazSRJxAlE=",
@@ -974,13 +958,6 @@
   {
     "name": "⚽ PACK FUTBOL ARGENTINA",
     "samples": [
-      {
-        "name": "Racing Club vs River Plate",
-        "icono": "https://www.delabahia.com.ar/wp-content/uploads/2018/03/pack.jpg",
-        "uri": "PEAjQSjwhjOYOwEB+/+Ikvpul2zsR4/O5dr5Pt313+L8d5v9QEK4ojSpJ1pF2kI2hY4FBW9wdJSxYRuAOMyZoA==",
-        "referer": "https://gabitotv.com/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
       {
         "name": "TNT SPORT ARGENTINA HD",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",
@@ -2156,12 +2133,12 @@
   {
     "name": "El Chavo del 8",
     "icono": "https://m.media-amazon.com/images/S/pv-target-images/08e88050b1e2ffedd1e49ad58df3cb4cfad4aa7cd8f4b2a7373a2062ccef8d4a.jpg",
-    "uri": "373XEVRLCA1xxzAHZkPsDapp70wb/JzzBE/CQ95VGvo77RvokvlqZInbisRDqDLFMxCXeJ0r9bD35Kxg7Ru3wQ=="
+    "uri": "840xZFXGzgHtc5Lhy3hkI/nZ/SzVgcFO3mzO3T3oqhvGZH6txhANTk5byy4AWlDvN4Ab/+9jfQpr1uQ+MvYw9Q=="
   },
   {
     "name": "El Chapulin colorado",
     "icono": "https://www.telemundo.com/sites/nbcutelemundo/files/images/promo/article/2017/05/10/chapulin-colorado.jpg",
-    "uri": "373XEVRLCA1xxzAHZkPsDXqATOWGl40qDYpAJ4ijiso70xQ5ai7OH+5JOlgJz58ro4wLVkGIXPbN6E1vIBw1aQ=="
+    "uri": "840xZFXGzgHtc5Lhy3hkIzLTc0UCjbE1ZM/hy32/jU4g5jsxjzuQfYSrGStWPT3Y+IkJTpSuCMwjVDGP2oip/Q=="
   },
   {
     "name": "Bob Esponja",
