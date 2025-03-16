@@ -971,16 +971,6 @@
     "name": "⚽ PACK FUTBOL ARGENTINA",
     "samples": [
       {
-        "name": "Central Cordoba vs Boca Juniors ",
-        "icono": "https://e.rpp-noticias.io/xlarge/2020/02/16/162616_901670.jpg",
-        "uri": "yRt/Wx40QEpES7GxZXyJKYg7vjxUbi2gAswrjwfnrz0GmqKM8YkrLAaBaFVsVT4GvIZfJHH18gGFodBr6Yf8M/GJ55zBraoD5qlo1zE9fCLuVq4dMMJjJhe2Ut9GF66PhGrTQujxaxgQfZNIT0Hz8rt2hF6UCJzXkRZ9bXtYYJmjrbwOSZmsIvgop9XOiuYoDwKVHxC4oBRNlsbkyCr2yQ=="
-      },
-      {
-        "name": "Central Cordoba vs Boca Juniors ",
-        "icono": "https://e.rpp-noticias.io/xlarge/2020/02/16/162616_901670.jpg",
-        "uri": "yRt/Wx40QEpES7GxZXyJKYg7vjxUbi2gAswrjwfnrz0GmqKM8YkrLAaBaFVsVT4GvIZfJHH18gGFodBr6Yf8M/GJ55zBraoD5qlo1zE9fCLuVq4dMMJjJhe2Ut9GF66PFWfVSOwA1NhQCJbDdEFT3oriZjsepwNXmcNhm+XuL4GKz0QwhZ799W3XsTsir+xZM/1OKKbQBzU32pgiAVjbCA=="
-      },
-      {
         "name": "TNT SPORT ARGENTINA HD",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Ckr7j+0O8DxrpM/VtJQWzAoGoXGyc2d+xsw6mvSkQq5hjlXXIhDp0NcNJTdjKoJSykAT3DzJI5GL1kS6a72d5HR",
@@ -1062,6 +1052,11 @@
     "name": "⚽ DEPORTES",
     "samples": [
       {
+        "name": "DIRECTV SPORTS",
+        "icono": "https://i.ibb.co/xFBsfVh/logo-directv-sports-4x3-final.png",
+        "uri": "yRt/Wx40QEpES7GxZXyJKb9P+W9vYhTW6G5Z6ay54yp7YmKHkFfBeuqorTuit0446MuOhlyoY8B62OWlGp9ixPNkqenWdXT1J/ocaG0Am8OWu9CpWlcLbcDxhFUZSKNkviB91bSnHvPkKAtS33FKBCzHR/Ca4PYkjCCyzyB/7+Yoc3WFhr3eApJA7WKZZlJS"
+      },
+      { 
         "name": "Show Sports (Córdoba)",
         "icono": "https://www.dz-techs.com/wp-content/uploads/2017/01/showsport-logo.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmPOwPIqgQHbwdxsPZNTRxgj78g40r2JCspxuBLo0Mw7dqZmfQAyT3k7amZS59BUxEkt9lEEm7o4xRCc+b4IueO",
