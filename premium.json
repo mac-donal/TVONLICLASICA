@@ -17,9 +17,9 @@
       {
         "name": "TIGO",
         "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg",
-        "uri": "fgUXksvg06s/dw05K1Nyju3V2fZpyr6I/Y/k2tAqvq1i6zR/AfrvftPLxsuxISzO" 
+        "uri": "fgUXksvg06s/dw05K1Nyju3V2fZpyr6I/Y/k2tAqvq1i6zR/AfrvftPLxsuxISzO"
       },
-      { 
+      {
         "name": "EVENTOS PY",
         "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg",
         "uri": "RqJ5bvmTtRSAfNdxnOf7UEOjXDAaTR1v1s4CY9Mg4E/vUxgjSifVFIDwJ52hsV7JeF1bDulz7lu0eMF5raAMuPO4H544KkfjIzj8wtTqlTZLC9Dz6zfNjytRdluPp6gOqMWXEp+FfP9a6JDncB8QgTMQl3idK/Ww9+SsYO0bt8E=",
@@ -1056,7 +1056,7 @@
         "icono": "https://i.ibb.co/xFBsfVh/logo-directv-sports-4x3-final.png",
         "uri": "yRt/Wx40QEpES7GxZXyJKb9P+W9vYhTW6G5Z6ay54yp7YmKHkFfBeuqorTuit0446MuOhlyoY8B62OWlGp9ixPNkqenWdXT1J/ocaG0Am8OWu9CpWlcLbcDxhFUZSKNkviB91bSnHvPkKAtS33FKBCzHR/Ca4PYkjCCyzyB/7+Yoc3WFhr3eApJA7WKZZlJS"
       },
-      { 
+      {
         "name": "Show Sports (Córdoba)",
         "icono": "https://www.dz-techs.com/wp-content/uploads/2017/01/showsport-logo.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmPOwPIqgQHbwdxsPZNTRxgj78g40r2JCspxuBLo0Mw7dqZmfQAyT3k7amZS59BUxEkt9lEEm7o4xRCc+b4IueO",
@@ -3390,6 +3390,14 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ycgO0lBpBPers5JhX1xDepcwA78nRkWxzXfrANyBz97zn1SYNZQQzxCho9FbXfYn48gpm2moyiPOiKA70CXJjfE/pkO+Bd+9Z5t5Vx01uu716gD5AQ84v/G/m/c8lCKmoQ==",
         "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "CARAS TV",
+        "icono": "https://smcdn02.trimi.com.ar/live/sm-live/CARAS_TV/sa_live_dash/CARAS_TV.mpd",
+        "uri": "/11wZ0igk8kc89LsipZ+UIUJEwOtBqn7gD8qaijzHVdW64I/B5RI9DLx2eoH9yDDAhwMfiKXMxvjG5BSsrGJfNzhMrT6g34Za72n4Zt/NRQ=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vC4yY4vy9+Ozhg4mCrusPSogNAsGbErLrEhtaOT4qTNtizYLXqRl7DhWU0+HC7s5",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
     ]
