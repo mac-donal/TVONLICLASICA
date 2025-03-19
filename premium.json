@@ -3398,9 +3398,8 @@
         "uri": "QvSRVu8EaCqLWDKBRM351iRYYQvo3vMB9jFWL2xbYTd+6Lt7xtbKrT/HHM5Fjc+mpYdgEAxLJK5dcSyT4kw+qbxYDBuXCUzXNGO1xm7wq1IwQOeQbIq/zzHpi0JRRlql4LkUWFmCn++3sWU5c/8WCg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "oEiz9dOnCEUB0SgqHSJbDUekCmQdoxfZ44GqInFFvhHRSKHER4ggBgXfouY4EppmMxCXeJ0r9bD35Kxg7Ru3wQ==",
-        "Origin": "https://www.telecentroplay.com.ar",
-        "Referer": "https://www.telecentroplay.com.ar/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+        "referer": "https://www.telecentroplay.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "CARAS TV",
