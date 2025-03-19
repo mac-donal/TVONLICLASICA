@@ -3393,12 +3393,22 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
+        "name": "TELEFE 12",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
+        "uri": "QvSRVu8EaCqLWDKBRM351iRYYQvo3vMB9jFWL2xbYTd+6Lt7xtbKrT/HHM5Fjc+mpYdgEAxLJK5dcSyT4kw+qbxYDBuXCUzXNGO1xm7wq1IwQOeQbIq/zzHpi0JRRlql4LkUWFmCn++3sWU5c/8WCg==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "oEiz9dOnCEUB0SgqHSJbDUekCmQdoxfZ44GqInFFvhHRSKHER4ggBgXfouY4EppmMxCXeJ0r9bD35Kxg7Ru3wQ==",
+        "Origin": "https://www.telecentroplay.com.ar",
+        "Referer": "https://www.telecentroplay.com.ar/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+      },
+      {
         "name": "CARAS TV",
         "icono": "https://smcdn02.trimi.com.ar/live/sm-live/CARAS_TV/sa_live_dash/CARAS_TV.mpd",
         "uri": "/11wZ0igk8kc89LsipZ+UIUJEwOtBqn7gD8qaijzHVdW64I/B5RI9DLx2eoH9yDDAhwMfiKXMxvjG5BSsrGJfNzhMrT6g34Za72n4Zt/NRQ=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "vC4yY4vy9+Ozhg4mCrusPSogNAsGbErLrEhtaOT4qTNtizYLXqRl7DhWU0+HC7s5",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
       }
     ]
   }
