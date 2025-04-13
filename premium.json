@@ -3,20 +3,38 @@
     "name": "🏆 Por favor comunícate con tu proveedor de TV Online Clásica (esta aplicación va a dejar de funcionar)",
     "samples": [
       {
-        "name": "TIGO",
-        "uri": "Encriptada: WLqCvVRVLlp70RVAVmUX2aqcv6/wohu38z5IYnZwjd9qC7+AP3aa84aJdKECj+/QwSC30/m3zoq1mcKDMeguyF3PcwWzTDyTW8+Zz2qSi9w=",
-        "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
+      
+        "name": "MLS",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
+        "uri": "IKzy+xi77y9pSjA1Kdh7kM5b6O4pNAp2omIhH7jUZhUH1OTZ8UXICsn3PH/Ni2+ls/ed2YhTGXpayGwPdrDs0spUBeKkTroT6jwhlVlr/5k=",
+        "referer": "https://gabitotv.com/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "MLSggh",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
+        "uri": "EHR2waEznnlf0iTCMLrDIKYZzURAbp8yUlFBDFC3RaexOviJQHwNwDUGvP5b1X88JVxaan3/iDr0XsvYFWPijDgKfSfB9oRpOi5zcJOnjYo6nELj738MzZsiWaIhXYzVW4Zs+809ttpPBnkRM0Q45kXi4fzsRpxG8oQvSsHBzWx42l3IgR/KndGL2EwX4ux5qlA8KNUDC6X9deIlni4+Yj64JaPoFOjzxPAkmtma2p6KtI8T8EswVejncvCmYlDwTWejqbF4MoStHml79IJLVQ=="
       }
     ]
   },
   {
-    "name": "🍿 ¡Atención! Desinstalar sí o sí (TV Online Clásica) para que no genere mal funcionamiento y así poder instalar (TV Online Plus)",
+    "name": "¡Atención! Desinstalar sí o sí (TV Online Clásica) para que no genere mal funcionamiento y así poder instalar (TV Online Plus)",
     "samples": [
       {
-        "name": "🍿TIGO 2",
-        "uri": "Encriptada: WLqCvVRVLlp70RVAVmUX2aqcv6/wohu38z5IYnZwjd9qC7+AP3aa84aJdKECj+/QwSC30/m3zoq1mcKDMeguyF3PcwWzTDyTW8+Zz2qSi9w=",
-        "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
+        "name": "EVENTOS FLOW MUSIC",
+        "icono": "https://i.ibb.co/jhrG266/flow-music.png",
+        "uri": "PieKW3Tj9RSHDO1/43uuAuJBqLU4R7uk3zC/JZT7ZPQacm2F8/OMmMUWLdZ2UNa+XKUBnx8mrjMR89Z8tXUBvJdC1WrZGugilcKONnfYB7b5hhLcxJUyMeF6ZnZloqYY",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "gr4GpGbPj3e0l1URQZ/FoMZbiujryUctXdGQEXZ3t/tf94ufrWlAqV0yR1nvpXpf8j5tqVAy/sleHqxLx1JsoZmnAcUFEGuO/ElNNRSWLYBHnOrgUkRse2KXWYTS1KGzlYBDbijEBJ+lHv280Isp30egEorIBG2txAM6kGgvvwM=",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "GH",
+        "icono": "https://media.telebajocero.com/p/8ca46d77b015140bb36d7daf7607cbe7/adjuntos/225/imagenes/000/936/0000936200/412x232/smart/gran-hermano-2024jpg.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2fq4JpUR35097SzFZPuJk2T6BKWgLV/HsBAXwGEvEbDP6G1xi1JGc3SEk0DbpV7b7k5fH+VrtHQEZpI6X9+09zY="
       }
     ]
   }
 ]
+        
