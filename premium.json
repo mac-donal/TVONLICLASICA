@@ -1,14 +1,19 @@
 [
   {
-    "name": "TIGO",
-    "uri": "VI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt817EWiG65Ta8vbDb2CXcJ8=",
-    "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
-  },
-  {
-    "name": "IAtencion desinstalar si o si (TV Online Clasica) para que no genere mal funcionamiento y asi poder instalar (TV Online Plus)",
+    "name": "🏆 Por favor comunícate con tu proveedor de TV Online Clásica (esta aplicación va a dejar de funcionar)",
     "samples": [
       {
-        "name": "TIGO 2",
+        "name": "TIGO",
+        "uri": "VI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt817EWiG65Ta8vbDb2CXcJ8=",
+        "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "🍿 ¡Atención! Desinstalar sí o sí (TV Online Clásica) para que no genere mal funcionamiento y así poder instalar (TV Online Plus)",
+    "samples": [
+      {
+        "name": "🍿TIGO 2",
         "uri": "VI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt817EWiG65Ta8vbDb2CXcJ8=",
         "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
       }
