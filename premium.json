@@ -3,45 +3,13 @@
     "name": "🏆 Por favor comunicate con tu proveedor de TV Online Clasica (esta aplicacion va a dejar de funcionar)",
     "samples": [
       {
-        "name": "EVENTOS URUGUAY NICO",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/800px-Flag_of_Uruguay.svg.png",
-        "uri": "sYXsCjeZzxYpLq7QXbiuz4nWe2FbGCWEGNPRZnNe8SNKCX/tl88wtbYG52kd1iTA"
-      },
-      {
-        "name": "TIGO",
-        "icono": "https://i.ibb.co/84rBf5Tb/Chat-GPT-Image-13-abr-2025-16-31-48.png",
-        "uri": "fgUXksvg06s/dw05K1Nyju3V2fZpyr6I/Y/k2tAqvq1i6zR/AfrvftPLxsuxISzO"
-      },
-      {
-        "name": "EVENTOS PY",
-        "icono": "https://i.ibb.co/84rBf5Tb/Chat-GPT-Image-13-abr-2025-16-31-48.png",
-        "uri": "RqJ5bvmTtRSAfNdxnOf7UEOjXDAaTR1v1s4CY9Mg4E/vUxgjSifVFIDwJ52hsV7JeF1bDulz7lu0eMF5raAMuPO4H544KkfjIzj8wtTqlTZLC9Dz6zfNjytRdluPp6gOqMWXEp+FfP9a6JDncB8QgTMQl3idK/Ww9+SsYO0bt8E=",
+        "name": "Sub-20",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Colores_Copa_Libertadores_de_Am%C3%A9rica_Sub-20.png",
+        "uri": "vsItsirgdv0HJtqZunlH4SYsUprcGTt8u4xkPkPu8r21Ksyc8KlCA8XRAbQMy3neog6eepUGKQmebUywU45T+3cOzDhSsnlsNKRQ04+mg5LGYg9tFyLAvC8EuZUPfHWf",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "flItQPI6jU/aOBPYSVeF+8rj1fDRx+qhrfWGE4pagrKKJKZT8qvTKfU6fXELzWFkypdz5Q1YyWfXof8fAZnUsP0iIg/g3ACgPBJBgyAttwB+CatCcqzO+FQLtfOs+VKb/uUiEH7jAZaj5woPhjvdzZQfDEG1nkYA/uxpRiKmzJrEZFMHGMDfA2oFA6MA3W+z9NJEXNjQjkQncjfZdeuvBQ=="
-      },
-      {
-        "name": "EVENTOS PY 2",
-        "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg",
-        "uri": "ARwtNmPl2AzeQHH1o25/Y/4MyfiIGf7t94aQQqqzp3VeLmwqpf32mtxzi23nyzWdtuvNOAg+nhU9zWE18u6tu68BcBFNH2GHAysT56Glf5uZ4JWZofHHQy6Lh+8r99MsfyCaWjteLk9d8EN27+BtMg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "naHTOM/mOdxnopq+4IQAIF1uScy8QGwz35H/WC91D08r+CgDdnkN9YNKUKA1B0u200koQHHlJWKuLUut6zk/TqmDDamvZFfdC5mzwcfZPWRkDAUuDxJTA8rK40JO4z3ik5ek6MAuC5F+sTy1uhjXD/wN4GmeSKplegrfVb17EuBLp9+vT2lU64jRXhvgWB8HdkDsbLi60elHsGXqD22SIQ=="
-      },
-      {
-        "name": "EVENTOS PY 3",
-        "icono": "https://i.ibb.co/84rBf5Tb/Chat-GPT-Image-13-abr-2025-16-31-48.png",
-        "uri": "ARwtNmPl2AzeQHH1o25/Y/4MyfiIGf7t94aQQqqzp3VeLmwqpf32mtxzi23nyzWd0nZvt8GyjiN+Xn7J6xXYMN0y3fI2FpGZ+5w54fnrh9qS4hrqQNcRYvPIi9KzPNIgjlBY5NjzYyaZcS1mJbhrOQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "YYuPV/p+fd/Ui2CcjMqcfQTqS60KVMhlhwlDyllvjwapEbaR0WBUtsZ7phNNrnECCNspNcnFAbo09wGYfRFCuJb+5S5W/h+qj0tXC1lGRFpNpPgXMItxbyJWqm7SR0ldnRdBwq1v36R3paSuUovogM2J58Kg2B+J2fvMmCWHtRk5pcX5mkminP8ucDqAO8pLMxCXeJ0r9bD35Kxg7Ru3wQ=="
-      },
-      {
-        "name": "MLS",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
-        "uri": "T9yGAG7/LsOA8yxmdiyVcO7uWxudvtE16jmjzEgldFuVkrXxITC/wT+/IPU/1huh0tuQCh6DaxrrMktvsxFZgjeAG//vY30Ka9bkPjL2MPU="
-      },
-      {
-        "name": "MLS OPC 2",
-        "icono": "https://i.ibb.co/84rBf5Tb/Chat-GPT-Image-13-abr-2025-16-31-48.png",
-        "uri": "tNb745Q/We0A0XAi6BOKK45aQtRkbfRvwky3Kcy0wGUznobRlP7w2aeyToXgBhRRodh4xM5NelxuNrtxY++m0mSACJ16ZayAvs1X0tMCMczs4H0Xn7c3QnNe5Pljeo+PxD/4a92oTkPnNA/UDsJF/cpUBeKkTroT6jwhlVlr/5k="
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ye0esdLfi6tvntkR2CrvaGvzKJKMEDKp/qNK+cOAAdKxXtCUqjuktHjx36uQ6whPCh1ig9wl+gDSmh6whKa5syASNxpUvBZAxzczaGl9dh9uVK8ApSJZJ3PExbDziwpHvA==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
     ]
   },
@@ -49,9 +17,14 @@
     "name": "🏆Atencion desinstalar si o si (TV Online Clasica) para que no genere mal funcionamiento y asi poder instalar (TV Online Plus)",
     "samples": [
       {
-        "name": "EVENTOS URUGUAY NICO",
-        "icono": "https://i.ibb.co/84rBf5Tb/Chat-GPT-Image-13-abr-2025-16-31-48.png",
-        "uri": "d8jEGsnEEGU/jm8QTFd8q25cd5Yqwgm48xn0buZG9mX4g2JS9WT8Q+gxaQZh31I58YqLCgVk2unIMxitfy2pMsJWwPMT2cipTtTCLKL4X9bFu3c3Dm1AhQvMM3juDv+Gg/gjJskbX0uhAhQ6fkD8oJUCy/WEmvcLtwMMpYQkM9QDhvCUXQatQ/apVQzSiP+NzhAN6L/Kq0Ape12ovWrCj66B/mXoMUW0I3wZODKHMMM5KkbZcfhi6TO68FetxKim"
+        "name": "EVENTOS FLOW MUSIC",
+        "icono": "https://i.ibb.co/jhrG266/flow-music.png",
+        "uri": "PieKW3Tj9RSHDO1/43uuAuJBqLU4R7uk3zC/JZT7ZPQacm2F8/OMmMUWLdZ2UNa+XKUBnx8mrjMR89Z8tXUBvJdC1WrZGugilcKONnfYB7b5hhLcxJUyMeF6ZnZloqYY",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yRYEjIJlCbvetHKRrpAsocVw8BQ8lkq3JjuQV3bxBQGZLekf3JHw143TNXfihMebPwmLaEtfd4DvPnBMtGWF2TE3i+DGJRMApjijj2yqq22zP4syiekztzr+/lrTtTjXtQ==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+
       }
     ]
   }
